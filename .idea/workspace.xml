@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df00f23e-9a9e-4404-8fe1-bc985866fa96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tn/esb/siad/eventAgency/EventTest/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tn/esb/siad/eventAgency/EventTest/EventServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tn/esb/siad/eventAgency/EventTest/eventControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.logs" beforeDir="false" afterPath="$PROJECT_DIR$/application.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.logs.2023-10-16.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Domains/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Domains/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Domains/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Domains/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Domains/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Domains/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Services/EventService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Services/EventService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Web/EventController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esb/siad/eventAgency/Web/EventController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XfnXVWBgBa8xXpawlzaUh5PEQa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Belqees/Documents/GitHub/EventAgency_microservice_spring_boot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tn.esb.siad.eventAgency.EventTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.eventControllerTest">
+    <configuration name="EventServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eventAgency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esb.siad.eventAgency.EventTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tn.esb.siad.eventAgency.EventTest" />
+      <option name="MAIN_CLASS_NAME" value="tn.esb.siad.eventAgency.EventTest.EventServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceTest,testGetAllEvents and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eventAgency" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="tn.esb.siad.eventAgency.EventTest.EventServiceTest,testGetAllEvents" />
+        <pattern testClass="tn.esb.siad.eventAgency.EventTest.EventServiceTest,testGetEventById" />
+        <pattern testClass="tn.esb.siad.eventAgency.EventTest.EventServiceTest,testAddEvent" />
+        <pattern testClass="tn.esb.siad.eventAgency.EventTest.EventServiceTest,testAddEventEventAlreadyExists" />
+        <pattern testClass="tn.esb.siad.eventAgency.EventTest.EventServiceTest,testUpdateEvent" />
+        <pattern testClass="tn.esb.siad.eventAgency.EventTest.EventServiceTest,testDeleteEvent" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceTest.testGetAllEvents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eventAgency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esb.siad.eventAgency.EventTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tn.esb.siad.eventAgency.EventTest" />
+      <option name="MAIN_CLASS_NAME" value="tn.esb.siad.eventAgency.EventTest.EventServiceTest" />
+      <option name="METHOD_NAME" value="testGetAllEvents" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventServiceTest.testGetEventById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eventAgency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esb.siad.eventAgency.EventTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tn.esb.siad.eventAgency.EventTest" />
+      <option name="MAIN_CLASS_NAME" value="tn.esb.siad.eventAgency.EventTest.EventServiceTest" />
+      <option name="METHOD_NAME" value="testGetEventById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eventControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eventAgency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esb.siad.eventAgency.EventTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tn.esb.siad.eventAgency.EventTest" />
+      <option name="MAIN_CLASS_NAME" value="tn.esb.siad.eventAgency.EventTest.eventControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventAgencyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eventAgency" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esb.siad.eventAgency.EventAgencyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.eventControllerTest" />
+        <item itemvalue="JUnit.EventServiceTest" />
+        <item itemvalue="JUnit.EventServiceTest,testGetAllEvents and 5 more" />
+        <item itemvalue="JUnit.EventServiceTest.testGetEventById" />
+        <item itemvalue="JUnit.EventServiceTest.testGetAllEvents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df00f23e-9a9e-4404-8fe1-bc985866fa96" name="Changes" comment="" />
+      <created>1699029042538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699029042538</updated>
+      <workItem from="1699029043612" duration="136000" />
+      <workItem from="1699273588894" duration="2754000" />
+      <workItem from="1699278367629" duration="2823000" />
+      <workItem from="1699356913114" duration="10448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EventAgency_microservice_spring_boot$EventAgencyApplication.ic" NAME="EventAgencyApplication Coverage Results" MODIFIED="1699279020694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
